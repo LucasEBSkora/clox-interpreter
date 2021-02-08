@@ -1,0 +1,11 @@
+Build started at 2021-01-27T23:18:41.395274
+Main binary: /usr/bin/python
+Build Options: -Dbuildtype=debug
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /home/lucass/Documents/clox-interpreter
+Build dir: /home/lucass/Documents/clox-interpreter/builddir
+Build type: native build
+
+ERROR: No statements in code.
